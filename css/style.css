@@ -224,7 +224,7 @@ ul.nav li {
 .avatar {
   margin: 0 auto;
   margin-top: 60px;
-  background-image: url("/img/avatar.jpg");
+  background-image: url("../img/avatar.jpg");
   background-size: cover;
   width: 220px;
   height: 220px;
