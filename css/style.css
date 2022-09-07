@@ -391,6 +391,11 @@ ul.contact-soc-list li:last-child {
   font-weight: 600;
 }
 
+.swiper-slide .text a {
+  text-decoration: none;
+  color: none;
+}
+
 .swiper-slide .text p:hover {
   cursor: pointer;
   color: #1b66a6;
